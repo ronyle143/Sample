@@ -1,6 +1,6 @@
 Sample
 ======
 
-sample repo
+sample my repo
 edit4
 Example edit
